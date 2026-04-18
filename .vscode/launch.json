@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AgroMind AI",
+            "request": "launch",
+            "mainClass": "com.agromind.AgroMindApp",
+            "projectName": "AI Project",
+            "vmArgs": "-cp \"bin;lib/*\""
+        }
+    ]
+}

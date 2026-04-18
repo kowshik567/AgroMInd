@@ -1,3 +1,4 @@
+HEAD
 # 🌾 AgroMind AI: Premium Agriculture Decision Support System
 
 AgroMind AI is a state-of-the-art decision-support system designed to empower farmers and agricultural enthusiasts with AI-driven insights. Built with a focus on high-fidelity aesthetics and intelligence, the dashboard provides a seamless experience for crop selection, weather simulation, and regional data analysis.
@@ -65,3 +66,6 @@ The recommendations are generated using a heuristic scoring engine that simulate
 
 **Developed with 💚 for Smarter Agriculture.**
    "Precision Decisions, Bountiful Harvests."
+=======
+# AgroMInd
+>>>>>>> 360042cb9b3badfae5e478b6ef476f319a7e593b

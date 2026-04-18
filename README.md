@@ -68,4 +68,5 @@ The recommendations are generated using a heuristic scoring engine that simulate
    "Precision Decisions, Bountiful Harvests."
 =======
 # AgroMInd
->>>>>>> 360042cb9b3badfae5e478b6ef476f319a7e593b
+
+Gmail:kowshik567@gmail.com
